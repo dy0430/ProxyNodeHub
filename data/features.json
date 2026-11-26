@@ -24,9 +24,9 @@
       "subscriptions/mix-base64.txt",
       "subscriptions/mix-normal.txt"
     ],
-    "TotalNodes": 9292,
-    "LastAnalyzed": "2026-11-26T01:17:48.4657498+00:00",
-    "AnalysisCount": 31,
+    "TotalNodes": 9304,
+    "LastAnalyzed": "2026-11-26T15:58:37.4823874+00:00",
+    "AnalysisCount": 32,
     "IsReliable": true
   },
   "chengaopan/AutoMergePublicNodes": {
@@ -62,9 +62,9 @@
     "KnownSubPaths": [
       "sub"
     ],
-    "TotalNodes": 11,
-    "LastAnalyzed": "2026-11-26T01:17:48.4657457+00:00",
-    "AnalysisCount": 22,
+    "TotalNodes": 12,
+    "LastAnalyzed": "2026-11-26T15:58:37.3458522+00:00",
+    "AnalysisCount": 23,
     "IsReliable": true
   },
   "4q4r/assay": {
@@ -94,8 +94,8 @@
       "sub.txt"
     ],
     "TotalNodes": 20,
-    "LastAnalyzed": "2026-11-26T01:17:48.792238+00:00",
-    "AnalysisCount": 15,
+    "LastAnalyzed": "2026-11-26T15:58:37.5157653+00:00",
+    "AnalysisCount": 16,
     "IsReliable": true
   },
   "VoroninaYanina/free-nodes": {
@@ -167,8 +167,8 @@
       "Vless.txt"
     ],
     "TotalNodes": 20,
-    "LastAnalyzed": "2026-11-24T16:41:32.1560577+00:00",
-    "AnalysisCount": 10,
+    "LastAnalyzed": "2026-11-26T15:58:37.6149236+00:00",
+    "AnalysisCount": 11,
     "IsReliable": true
   },
   "nodesradar/nodesradar-es": {
@@ -176,8 +176,8 @@
     "Category": 0,
     "KnownSubPaths": [],
     "TotalNodes": 0,
-    "LastAnalyzed": "2026-11-26T01:17:48.6693757+00:00",
-    "AnalysisCount": 25,
+    "LastAnalyzed": "2026-11-26T15:58:37.9572268+00:00",
+    "AnalysisCount": 26,
     "IsReliable": false
   },
   "nodesradar/nodesradar-my": {
@@ -185,8 +185,8 @@
     "Category": 0,
     "KnownSubPaths": [],
     "TotalNodes": 0,
-    "LastAnalyzed": "2026-11-26T01:17:49.0776528+00:00",
-    "AnalysisCount": 25,
+    "LastAnalyzed": "2026-11-26T15:58:38.4299604+00:00",
+    "AnalysisCount": 26,
     "IsReliable": false
   },
   "nodesradar/nodesradar-id": {
@@ -194,8 +194,8 @@
     "Category": 0,
     "KnownSubPaths": [],
     "TotalNodes": 0,
-    "LastAnalyzed": "2026-11-26T01:17:49.3559618+00:00",
-    "AnalysisCount": 24,
+    "LastAnalyzed": "2026-11-26T15:58:38.5759739+00:00",
+    "AnalysisCount": 25,
     "IsReliable": false
   },
   "nodesradar/nodesradar-vi": {
@@ -203,8 +203,8 @@
     "Category": 0,
     "KnownSubPaths": [],
     "TotalNodes": 0,
-    "LastAnalyzed": "2026-11-26T01:17:49.6094331+00:00",
-    "AnalysisCount": 23,
+    "LastAnalyzed": "2026-11-26T15:58:38.8089934+00:00",
+    "AnalysisCount": 24,
     "IsReliable": false
   },
   "nodesradar/nodesradar-ar": {
@@ -527,9 +527,9 @@
       "sub/vless.txt",
       "sub/vmess.txt"
     ],
-    "TotalNodes": 200,
-    "LastAnalyzed": "2026-11-23T16:45:55.4927852+00:00",
-    "AnalysisCount": 1,
+    "TotalNodes": 199,
+    "LastAnalyzed": "2026-11-26T15:58:37.7995927+00:00",
+    "AnalysisCount": 2,
     "IsReliable": true
   },
   "haiwanai/free-nodes": {
@@ -543,5 +543,14 @@
     "LastAnalyzed": "2026-11-24T16:41:30.442406+00:00",
     "AnalysisCount": 1,
     "IsReliable": true
+  },
+  "zs350235495-ui/tuijian": {
+    "FullName": "zs350235495-ui/tuijian",
+    "Category": 0,
+    "KnownSubPaths": [],
+    "TotalNodes": 0,
+    "LastAnalyzed": "2026-11-26T15:58:37.8429077+00:00",
+    "AnalysisCount": 1,
+    "IsReliable": false
   }
 }
