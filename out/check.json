@@ -1,67 +1,68 @@
 {
-  "generated_at": "2026-11-25T01:44:41Z",
+  "generated_at": "2026-11-26T01:18:00Z",
   "test_url": "http://www.gstatic.com/generate_204",
   "test_url_ok": true,
   "timeout_ms": 5000,
-  "total": 3142,
-  "working": 149,
-  "failed": 2993,
+  "total": 3035,
+  "working": 192,
+  "failed": 2843,
   "by_type": {
-    "vless": 39,
-    "vmess": 37,
-    "trojan": 3,
-    "ss": 67,
-    "hy2": 3
+    "vless": 43,
+    "vmess": 63,
+    "trojan": 1,
+    "ss": 78,
+    "hy2": 6,
+    "ssr": 1
   },
   "fastest": [
     {
-      "name": "Tel-@ProxyMtAlpha🫚",
-      "delay_ms": 207,
+      "name": "v2go | 🇺🇸 US | SSR | 191",
+      "delay_ms": 64,
+      "type": "ssr"
+    },
+    {
+      "name": "@V2raySaman-3",
+      "delay_ms": 144,
       "type": "ss"
     },
     {
-      "name": "🇺🇸210148",
-      "delay_ms": 208,
+      "name": "تو",
+      "delay_ms": 146,
       "type": "ss"
     },
     {
-      "name": "🇺🇸162054",
-      "delay_ms": 211,
+      "name": "@ConfigV2RayNG-15",
+      "delay_ms": 147,
       "type": "ss"
     },
     {
-      "name": "@tootffarangi🍓-10",
-      "delay_ms": 216,
+      "name": "@i10VPN⁹",
+      "delay_ms": 160,
       "type": "ss"
     },
     {
-      "name": "@V2rayNGVPN-4",
-      "delay_ms": 217,
-      "type": "ss"
-    },
-    {
-      "name": "@V2ray_Alpha🐭2",
-      "delay_ms": 217,
-      "type": "ss"
-    },
-    {
-      "name": "🇺🇸@FreakConfig",
-      "delay_ms": 219,
-      "type": "ss"
-    },
-    {
-      "name": "@V2rayNPVTConfig-6",
-      "delay_ms": 223,
+      "name": "13415@proxy_online_net",
+      "delay_ms": 161,
       "type": "vmess"
     },
     {
-      "name": "13178@proxy_online_net",
-      "delay_ms": 228,
+      "name": "@V2rayNPVTConfig-9",
+      "delay_ms": 167,
       "type": "vmess"
     },
     {
-      "name": "@V2rayNPVTConfig-5",
-      "delay_ms": 232,
+      "name": "@vpnsal-3",
+      "delay_ms": 168,
+      "type": "ss"
+    },
+    {
+      "name": "@vpnbaz-2",
+      "delay_ms": 171,
+      "type": "ss"
+    },
+    {
+      "name": "13096@proxy_online_net",
+      "delay_ms": 174,
       "type": "vmess"
     }
   ]

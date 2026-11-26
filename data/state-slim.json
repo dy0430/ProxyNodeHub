@@ -1,85 +1,85 @@
 {
-  "generated_at": "2026-11-25T01:44:33.5906981+00:00",
+  "generated_at": "2026-11-26T01:17:52.6510023+00:00",
   "repositories": [
-    {
-      "full_name": "tglaoshiji/nodeshare",
-      "score": 85,
-      "total_nodes": 169,
-      "links": [
-        {
-          "name": "2026/v2ray.txt",
-          "url": "https://raw.githubusercontent.com/tglaoshiji/nodeshare/main/2026/v2ray.txt",
-          "type": "Base64",
-          "node_count": 21
-        },
-        {
-          "name": "2025/7/v2ray.txt",
-          "url": "https://raw.githubusercontent.com/tglaoshiji/nodeshare/main/2025/7/v2ray.txt",
-          "type": "Base64",
-          "node_count": 169
-        },
-        {
-          "name": "2025/8/clash.yaml",
-          "url": "https://raw.githubusercontent.com/tglaoshiji/nodeshare/main/2025/8/clash.yaml",
-          "type": "Clash",
-          "node_count": 169
-        }
-      ]
-    },
     {
       "full_name": "MustafaBaqer/VestraNet-Nodes",
       "score": 78,
-      "total_nodes": 9331,
+      "total_nodes": 9292,
       "links": [
         {
           "name": "protocols/vless.txt",
           "url": "https://raw.githubusercontent.com/MustafaBaqer/VestraNet-Nodes/main/protocols/vless.txt",
           "type": "Base64",
-          "node_count": 1604
+          "node_count": 1549
         },
         {
           "name": "protocols/vmess.txt",
           "url": "https://raw.githubusercontent.com/MustafaBaqer/VestraNet-Nodes/main/protocols/vmess.txt",
           "type": "Base64",
-          "node_count": 5732
+          "node_count": 5086
         },
         {
           "name": "protocols/trojan.txt",
           "url": "https://raw.githubusercontent.com/MustafaBaqer/VestraNet-Nodes/main/protocols/trojan.txt",
           "type": "Base64",
-          "node_count": 253
+          "node_count": 271
         },
         {
           "name": "subscriptions/mix-base64.txt",
           "url": "https://raw.githubusercontent.com/MustafaBaqer/VestraNet-Nodes/main/subscriptions/mix-base64.txt",
           "type": "Base64",
-          "node_count": 9331
+          "node_count": 9292
         },
         {
           "name": "subscriptions/mix-normal.txt",
           "url": "https://raw.githubusercontent.com/MustafaBaqer/VestraNet-Nodes/main/subscriptions/mix-normal.txt",
           "type": "Base64",
-          "node_count": 9331
+          "node_count": 9292
+        }
+      ]
+    },
+    {
+      "full_name": "Andrejewild/bypass-whitelist-vpn",
+      "score": 73,
+      "total_nodes": 20,
+      "links": [
+        {
+          "name": "sub.txt",
+          "url": "https://raw.githubusercontent.com/Andrejewild/bypass-whitelist-vpn/main/sub.txt",
+          "type": "Base64",
+          "node_count": 20
+        }
+      ]
+    },
+    {
+      "full_name": "Pawdroid/Free-servers",
+      "score": 31,
+      "total_nodes": 11,
+      "links": [
+        {
+          "name": "sub",
+          "url": "https://raw.githubusercontent.com/Pawdroid/Free-servers/main/sub",
+          "type": "Base64",
+          "node_count": 11
         }
       ]
     }
   ],
   "subscriptions": [
-    "https://raw.githubusercontent.com/tglaoshiji/nodeshare/main/2026/v2ray.txt",
-    "https://raw.githubusercontent.com/tglaoshiji/nodeshare/main/2025/7/v2ray.txt",
-    "https://raw.githubusercontent.com/tglaoshiji/nodeshare/main/2025/8/clash.yaml",
     "https://raw.githubusercontent.com/MustafaBaqer/VestraNet-Nodes/main/protocols/vless.txt",
     "https://raw.githubusercontent.com/MustafaBaqer/VestraNet-Nodes/main/protocols/vmess.txt",
     "https://raw.githubusercontent.com/MustafaBaqer/VestraNet-Nodes/main/protocols/trojan.txt",
     "https://raw.githubusercontent.com/MustafaBaqer/VestraNet-Nodes/main/subscriptions/mix-base64.txt",
-    "https://raw.githubusercontent.com/MustafaBaqer/VestraNet-Nodes/main/subscriptions/mix-normal.txt"
+    "https://raw.githubusercontent.com/MustafaBaqer/VestraNet-Nodes/main/subscriptions/mix-normal.txt",
+    "https://raw.githubusercontent.com/Andrejewild/bypass-whitelist-vpn/main/sub.txt",
+    "https://raw.githubusercontent.com/Pawdroid/Free-servers/main/sub"
   ],
   "failed_searches": 0,
   "failed_repositories": 0,
   "failed_downloads": 0,
-  "yaml_skipped": 1,
-  "total_nodes": 26441,
-  "unique_nodes": 3238,
-  "clash_nodes": 3142,
-  "clash_skipped": 96
+  "yaml_skipped": 0,
+  "total_nodes": 25521,
+  "unique_nodes": 3121,
+  "clash_nodes": 3035,
+  "clash_skipped": 86
 }
