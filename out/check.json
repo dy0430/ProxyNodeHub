@@ -1,68 +1,68 @@
 {
-  "generated_at": "2026-11-27T01:16:26Z",
+  "generated_at": "2026-11-27T15:47:18Z",
   "test_url": "http://www.gstatic.com/generate_204",
   "test_url_ok": true,
   "timeout_ms": 5000,
-  "total": 3098,
-  "working": 231,
-  "failed": 2867,
+  "total": 2960,
+  "working": 92,
+  "failed": 2868,
   "by_type": {
-    "vless": 50,
-    "vmess": 74,
-    "trojan": 2,
-    "ss": 93,
-    "hy2": 12
+    "vless": 18,
+    "vmess": 35,
+    "ss": 37,
+    "ssr": 1,
+    "hy2": 1
   },
   "fastest": [
     {
-      "name": "@meliproxyy-25",
-      "delay_ms": 147,
+      "name": "@Nexus_Panell-2",
+      "delay_ms": 96,
       "type": "ss"
     },
     {
-      "name": "@VEGAAS_VPN9",
-      "delay_ms": 154,
-      "type": "ss"
-    },
-    {
-      "name": "🇨🇦220255",
-      "delay_ms": 208,
-      "type": "ss"
-    },
-    {
-      "name": "@i10VPN⁴",
-      "delay_ms": 218,
-      "type": "ss"
-    },
-    {
-      "name": "🇺🇸-31",
-      "delay_ms": 236,
+      "name": "🇺🇸-43",
+      "delay_ms": 164,
       "type": "vmess"
     },
     {
-      "name": "@VPNConnectd-5",
-      "delay_ms": 269,
-      "type": "ss"
-    },
-    {
-      "name": "@vasl_bashim-3",
-      "delay_ms": 269,
-      "type": "ss"
-    },
-    {
-      "name": "🇺🇸-33",
-      "delay_ms": 269,
+      "name": "node-1248",
+      "delay_ms": 175,
       "type": "vmess"
     },
     {
-      "name": "@V2rayNPVTConfig-19",
-      "delay_ms": 271,
+      "name": "4Nika-3356",
+      "delay_ms": 177,
+      "type": "ssr"
+    },
+    {
+      "name": "@V2rayNPVTConfig-2",
+      "delay_ms": 178,
       "type": "vmess"
     },
     {
-      "name": "🇬🇧GB-198.244.201.129-0444",
-      "delay_ms": 271,
+      "name": "node-1309",
+      "delay_ms": 180,
+      "type": "vmess"
+    },
+    {
+      "name": "13521@proxy_online_net",
+      "delay_ms": 181,
+      "type": "vmess"
+    },
+    {
+      "name": "node-1244",
+      "delay_ms": 181,
+      "type": "vmess"
+    },
+    {
+      "name": "@ICV2RAY",
+      "delay_ms": 189,
       "type": "ss"
+    },
+    {
+      "name": "@VPsave-2",
+      "delay_ms": 199,
+      "type": "vless"
     }
   ]
 }
