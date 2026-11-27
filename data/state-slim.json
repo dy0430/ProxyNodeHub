@@ -1,90 +1,40 @@
 {
-  "generated_at": "2026-11-26T15:58:39.6180767+00:00",
+  "generated_at": "2026-11-27T01:16:18.5392474+00:00",
   "repositories": [
-    {
-      "full_name": "Leechuihui/FreeHarbor",
-      "score": 96,
-      "total_nodes": 199,
-      "links": [
-        {
-          "name": "sub/ss.txt",
-          "url": "https://raw.githubusercontent.com/Leechuihui/FreeHarbor/main/sub/ss.txt",
-          "type": "Base64",
-          "node_count": 86
-        },
-        {
-          "name": "sub/all.txt",
-          "url": "https://raw.githubusercontent.com/Leechuihui/FreeHarbor/main/sub/all.txt",
-          "type": "Base64",
-          "node_count": 199
-        },
-        {
-          "name": "sub/best.txt",
-          "url": "https://raw.githubusercontent.com/Leechuihui/FreeHarbor/main/sub/best.txt",
-          "type": "Base64",
-          "node_count": 20
-        },
-        {
-          "name": "sub/vless.txt",
-          "url": "https://raw.githubusercontent.com/Leechuihui/FreeHarbor/main/sub/vless.txt",
-          "type": "Base64",
-          "node_count": 83
-        },
-        {
-          "name": "sub/vmess.txt",
-          "url": "https://raw.githubusercontent.com/Leechuihui/FreeHarbor/main/sub/vmess.txt",
-          "type": "Base64",
-          "node_count": 11
-        }
-      ]
-    },
-    {
-      "full_name": "gslege/CloudflareIP",
-      "score": 83,
-      "total_nodes": 20,
-      "links": [
-        {
-          "name": "Vless.txt",
-          "url": "https://raw.githubusercontent.com/gslege/CloudflareIP/main/Vless.txt",
-          "type": "Base64",
-          "node_count": 20
-        }
-      ]
-    },
     {
       "full_name": "MustafaBaqer/VestraNet-Nodes",
       "score": 78,
-      "total_nodes": 9304,
+      "total_nodes": 9155,
       "links": [
         {
           "name": "protocols/vless.txt",
           "url": "https://raw.githubusercontent.com/MustafaBaqer/VestraNet-Nodes/main/protocols/vless.txt",
           "type": "Base64",
-          "node_count": 1610
+          "node_count": 1746
         },
         {
           "name": "protocols/vmess.txt",
           "url": "https://raw.githubusercontent.com/MustafaBaqer/VestraNet-Nodes/main/protocols/vmess.txt",
           "type": "Base64",
-          "node_count": 4960
+          "node_count": 4775
         },
         {
           "name": "protocols/trojan.txt",
           "url": "https://raw.githubusercontent.com/MustafaBaqer/VestraNet-Nodes/main/protocols/trojan.txt",
           "type": "Base64",
-          "node_count": 193
+          "node_count": 184
         },
         {
           "name": "subscriptions/mix-base64.txt",
           "url": "https://raw.githubusercontent.com/MustafaBaqer/VestraNet-Nodes/main/subscriptions/mix-base64.txt",
           "type": "Base64",
-          "node_count": 9304
+          "node_count": 9155
         },
         {
           "name": "subscriptions/mix-normal.txt",
           "url": "https://raw.githubusercontent.com/MustafaBaqer/VestraNet-Nodes/main/subscriptions/mix-normal.txt",
           "type": "Base64",
-          "node_count": 9304
+          "node_count": 9155
         }
       ]
     },
@@ -100,42 +50,22 @@
           "node_count": 20
         }
       ]
-    },
-    {
-      "full_name": "Pawdroid/Free-servers",
-      "score": 31,
-      "total_nodes": 12,
-      "links": [
-        {
-          "name": "sub",
-          "url": "https://raw.githubusercontent.com/Pawdroid/Free-servers/main/sub",
-          "type": "Base64",
-          "node_count": 12
-        }
-      ]
     }
   ],
   "subscriptions": [
-    "https://raw.githubusercontent.com/Leechuihui/FreeHarbor/main/sub/ss.txt",
-    "https://raw.githubusercontent.com/Leechuihui/FreeHarbor/main/sub/all.txt",
-    "https://raw.githubusercontent.com/Leechuihui/FreeHarbor/main/sub/best.txt",
-    "https://raw.githubusercontent.com/Leechuihui/FreeHarbor/main/sub/vless.txt",
-    "https://raw.githubusercontent.com/Leechuihui/FreeHarbor/main/sub/vmess.txt",
-    "https://raw.githubusercontent.com/gslege/CloudflareIP/main/Vless.txt",
     "https://raw.githubusercontent.com/MustafaBaqer/VestraNet-Nodes/main/protocols/vless.txt",
     "https://raw.githubusercontent.com/MustafaBaqer/VestraNet-Nodes/main/protocols/vmess.txt",
     "https://raw.githubusercontent.com/MustafaBaqer/VestraNet-Nodes/main/protocols/trojan.txt",
     "https://raw.githubusercontent.com/MustafaBaqer/VestraNet-Nodes/main/subscriptions/mix-base64.txt",
     "https://raw.githubusercontent.com/MustafaBaqer/VestraNet-Nodes/main/subscriptions/mix-normal.txt",
-    "https://raw.githubusercontent.com/Andrejewild/bypass-whitelist-vpn/main/sub.txt",
-    "https://raw.githubusercontent.com/Pawdroid/Free-servers/main/sub"
+    "https://raw.githubusercontent.com/Andrejewild/bypass-whitelist-vpn/main/sub.txt"
   ],
   "failed_searches": 0,
   "failed_repositories": 0,
   "failed_downloads": 0,
   "yaml_skipped": 0,
-  "total_nodes": 25822,
-  "unique_nodes": 3295,
-  "clash_nodes": 3192,
+  "total_nodes": 25035,
+  "unique_nodes": 3201,
+  "clash_nodes": 3098,
   "clash_skipped": 103
 }

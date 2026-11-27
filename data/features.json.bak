@@ -24,9 +24,9 @@
       "subscriptions/mix-base64.txt",
       "subscriptions/mix-normal.txt"
     ],
-    "TotalNodes": 9304,
-    "LastAnalyzed": "2026-11-26T15:58:37.4823874+00:00",
-    "AnalysisCount": 32,
+    "TotalNodes": 9155,
+    "LastAnalyzed": "2026-11-27T01:16:15.7367762+00:00",
+    "AnalysisCount": 33,
     "IsReliable": true
   },
   "chengaopan/AutoMergePublicNodes": {
@@ -94,8 +94,8 @@
       "sub.txt"
     ],
     "TotalNodes": 20,
-    "LastAnalyzed": "2026-11-26T15:58:37.5157653+00:00",
-    "AnalysisCount": 16,
+    "LastAnalyzed": "2026-11-27T01:16:15.9834117+00:00",
+    "AnalysisCount": 17,
     "IsReliable": true
   },
   "VoroninaYanina/free-nodes": {
@@ -176,8 +176,8 @@
     "Category": 0,
     "KnownSubPaths": [],
     "TotalNodes": 0,
-    "LastAnalyzed": "2026-11-26T15:58:37.9572268+00:00",
-    "AnalysisCount": 26,
+    "LastAnalyzed": "2026-11-27T01:16:15.7960174+00:00",
+    "AnalysisCount": 27,
     "IsReliable": false
   },
   "nodesradar/nodesradar-my": {
@@ -185,8 +185,8 @@
     "Category": 0,
     "KnownSubPaths": [],
     "TotalNodes": 0,
-    "LastAnalyzed": "2026-11-26T15:58:38.4299604+00:00",
-    "AnalysisCount": 26,
+    "LastAnalyzed": "2026-11-27T01:16:15.7367832+00:00",
+    "AnalysisCount": 27,
     "IsReliable": false
   },
   "nodesradar/nodesradar-id": {
@@ -194,8 +194,8 @@
     "Category": 0,
     "KnownSubPaths": [],
     "TotalNodes": 0,
-    "LastAnalyzed": "2026-11-26T15:58:38.5759739+00:00",
-    "AnalysisCount": 25,
+    "LastAnalyzed": "2026-11-27T01:16:16.4151351+00:00",
+    "AnalysisCount": 26,
     "IsReliable": false
   },
   "nodesradar/nodesradar-vi": {
@@ -203,8 +203,8 @@
     "Category": 0,
     "KnownSubPaths": [],
     "TotalNodes": 0,
-    "LastAnalyzed": "2026-11-26T01:17:49.6094331+00:00",
-    "AnalysisCount": 23,
+    "LastAnalyzed": "2026-11-27T01:16:16.6539371+00:00",
+    "AnalysisCount": 25,
     "IsReliable": false
   },
   "nodesradar/nodesradar-ar": {
@@ -212,8 +212,8 @@
     "Category": 0,
     "KnownSubPaths": [],
     "TotalNodes": 0,
-    "LastAnalyzed": "2026-11-26T01:17:49.9878602+00:00",
-    "AnalysisCount": 20,
+    "LastAnalyzed": "2026-11-27T01:16:17.1118691+00:00",
+    "AnalysisCount": 21,
     "IsReliable": false
   },
   "nodesradar/nodesradar-ur": {
@@ -221,8 +221,8 @@
     "Category": 0,
     "KnownSubPaths": [],
     "TotalNodes": 0,
-    "LastAnalyzed": "2026-11-26T01:17:49.6159649+00:00",
-    "AnalysisCount": 21,
+    "LastAnalyzed": "2026-11-27T01:16:16.6367201+00:00",
+    "AnalysisCount": 22,
     "IsReliable": false
   },
   "zhangdunlong/free-v2ray-nodes": {
@@ -342,8 +342,8 @@
     "Category": 0,
     "KnownSubPaths": [],
     "TotalNodes": 0,
-    "LastAnalyzed": "2026-11-20T00:00:10.9192321+00:00",
-    "AnalysisCount": 3,
+    "LastAnalyzed": "2026-11-27T01:16:17.4099829+00:00",
+    "AnalysisCount": 4,
     "IsReliable": false
   },
   "junjun266/FreeProxyGo": {
