@@ -1,8 +1,6 @@
-https://raw.githubusercontent.com/gslege/CloudflareIP/main/Vless.txt
+https://raw.githubusercontent.com/bushilian/bushilian/main/sub
 https://raw.githubusercontent.com/MustafaBaqer/VestraNet-Nodes/main/protocols/vless.txt
 https://raw.githubusercontent.com/MustafaBaqer/VestraNet-Nodes/main/protocols/vmess.txt
 https://raw.githubusercontent.com/MustafaBaqer/VestraNet-Nodes/main/protocols/trojan.txt
 https://raw.githubusercontent.com/MustafaBaqer/VestraNet-Nodes/main/subscriptions/mix-base64.txt
 https://raw.githubusercontent.com/MustafaBaqer/VestraNet-Nodes/main/subscriptions/mix-normal.txt
-https://raw.githubusercontent.com/Andrejewild/bypass-whitelist-vpn/main/sub.txt
-https://raw.githubusercontent.com/Pawdroid/Free-servers/main/sub

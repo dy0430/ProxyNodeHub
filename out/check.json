@@ -1,68 +1,67 @@
 {
-  "generated_at": "2026-11-27T15:47:18Z",
+  "generated_at": "2026-11-28T00:49:20Z",
   "test_url": "http://www.gstatic.com/generate_204",
   "test_url_ok": true,
   "timeout_ms": 5000,
-  "total": 2960,
-  "working": 92,
-  "failed": 2868,
+  "total": 3083,
+  "working": 196,
+  "failed": 2887,
   "by_type": {
-    "vless": 18,
-    "vmess": 35,
-    "ss": 37,
-    "ssr": 1,
-    "hy2": 1
+    "ss": 94,
+    "vless": 38,
+    "vmess": 56,
+    "hy2": 8
   },
   "fastest": [
     {
-      "name": "@Nexus_Panell-2",
-      "delay_ms": 96,
+      "name": "Tel-@ProxyMtAlpha🐺5",
+      "delay_ms": 75,
       "type": "ss"
     },
     {
-      "name": "🇺🇸-43",
-      "delay_ms": 164,
-      "type": "vmess"
-    },
-    {
-      "name": "node-1248",
-      "delay_ms": 175,
-      "type": "vmess"
-    },
-    {
-      "name": "4Nika-3356",
-      "delay_ms": 177,
-      "type": "ssr"
-    },
-    {
-      "name": "@V2rayNPVTConfig-2",
-      "delay_ms": 178,
-      "type": "vmess"
-    },
-    {
-      "name": "node-1309",
-      "delay_ms": 180,
-      "type": "vmess"
-    },
-    {
-      "name": "13521@proxy_online_net",
-      "delay_ms": 181,
-      "type": "vmess"
-    },
-    {
-      "name": "node-1244",
-      "delay_ms": 181,
-      "type": "vmess"
-    },
-    {
-      "name": "@ICV2RAY",
-      "delay_ms": 189,
+      "name": "@i10VPN⁶",
+      "delay_ms": 98,
       "type": "ss"
     },
     {
-      "name": "@VPsave-2",
-      "delay_ms": 199,
-      "type": "vless"
+      "name": "🇺🇸US-138.197.89.234-0143",
+      "delay_ms": 103,
+      "type": "ss"
+    },
+    {
+      "name": "🇨🇦230472",
+      "delay_ms": 104,
+      "type": "ss"
+    },
+    {
+      "name": "@hi_proxy_iran-4",
+      "delay_ms": 107,
+      "type": "ss"
+    },
+    {
+      "name": "Tel-@ProxyMtAlpha🐩",
+      "delay_ms": 107,
+      "type": "ss"
+    },
+    {
+      "name": "@VPsave-22",
+      "delay_ms": 108,
+      "type": "ss"
+    },
+    {
+      "name": "🇨🇦-5",
+      "delay_ms": 109,
+      "type": "vmess"
+    },
+    {
+      "name": "Tel-@ProxyMtAlpha🦒",
+      "delay_ms": 112,
+      "type": "ss"
+    },
+    {
+      "name": "@Lent_Gc🇦🇪",
+      "delay_ms": 116,
+      "type": "ss"
     }
   ]
 }
